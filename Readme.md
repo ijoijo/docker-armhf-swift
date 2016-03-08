@@ -11,7 +11,7 @@ You can find the Docker Hub repo here: [https://hub.docker.com/r/ijoijo/armhf-sw
 ### Pre-requisites
 Have docker up and running on your favorite ARM Linux distribution (Raspbian, Ubuntu, ArchLinux, HypriotOS).
 
-If needed you can follow the instructions given on the Hypriot website, which gives a lot of useful hints about running Docker on ARM.
+If needed you can follow the instructions given on the Hypriot website, which gives a lot of useful hints about running Docker on ARM: [http://blog.hypriot.com](http://blog.hypriot.com)
 
 ### Docker Instructions
 
